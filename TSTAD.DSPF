@@ -1,0 +1,92 @@
+     A*%%TS  SD  20200717  051345  E900112     REL-V7R2M0  5770-WDS
+     A*%%EC
+     A                                      DSPSIZ(24 80 *DS3)
+     A                                      INDARA
+     A                                      CA03(03)
+     A          R STICKMAN
+     A*%%TS  SD  20200717  051345  E900112     REL-V7R2M0  5770-WDS
+     A                                      LOCK
+     A                                      KEEP
+     A                                      OVERLAY
+     A                                  8 28'@'
+     A                                      COLOR(RED)
+     A                                  9 27'(\_'
+     A                                      COLOR(RED)
+     A                                 10 27'./\'
+     A                                      COLOR(RED)
+     A  50                             11 31'        '
+     A                                      COLOR(BLU)
+     A                                      DSPATR(RI)
+     A  50                             12 30'            '
+     A                                      COLOR(BLU)
+     A                                      DSPATR(RI)
+     A  50                             13 33'           '
+     A                                      COLOR(BLU)
+     A                                      DSPATR(RI)
+     A N50                             11 31'       '
+     A                                      COLOR(BLU)
+     A                                      DSPATR(RI)
+     A N50                             12 30'           '
+     A                                      COLOR(BLU)
+     A                                      DSPATR(RI)
+     A N50                             13 34'         '
+     A                                      COLOR(BLU)
+     A                                      DSPATR(RI)
+     A  50                              9 31'.-.'
+     A  50                             10 32'  `.'
+     A N50                              9 31'.'
+     A N50                             10 32'`.'
+     A  56                              8 47'@'
+     A                                      COLOR(PNK)
+     A  55                              8 53'@'
+     A                                      COLOR(PNK)
+     A  54                              8 59'@'
+     A                                      COLOR(PNK)
+     A  53                              8 65'@'
+     A                                      COLOR(PNK)
+     A  52                              8 71'@'
+     A                                      COLOR(PNK)
+     A  51                              8 77'@'
+     A                                      COLOR(PNK)
+     A  56                              9 46'~[~'
+     A                                      COLOR(PNK)
+     A  55                              9 52'~\~'
+     A                                      COLOR(PNK)
+     A  54                              9 58'~[~'
+     A                                      COLOR(PNK)
+     A  53                              9 64'~\~'
+     A                                      COLOR(PNK)
+     A  52                              9 70'~[~'
+     A                                      COLOR(PNK)
+     A  51                              9 76'~\~'
+     A                                      COLOR(PNK)
+     A  56                             10 47'/\'
+     A                                      COLOR(PNK)
+     A  55                             10 53'<\'
+     A                                      COLOR(PNK)
+     A  54                             10 59'/\'
+     A                                      COLOR(PNK)
+     A  53                             10 65'<\'
+     A                                      COLOR(PNK)
+     A  52                             10 71'/\'
+     A                                      COLOR(PNK)
+     A  51                             10 77'<\'
+     A                                      COLOR(PNK)
+     A  57                              8 41'@'
+     A                                      COLOR(PNK)
+     A  57                              9 40'_/)'
+     A                                      COLOR(PNK)
+     A  58                             10 37';~'
+     A  57                             10 40'<<'
+     A                                      COLOR(PNK)
+     A          R ENDGAME
+     A                                      OVERLAY
+     A                                 10 25'SHOW OVER....'
+     A                                      COLOR(YLW)
+     A          R FOOTER
+     A                                      OVERLAY
+     A                                 22  7'F3=Step Out'
+     A                                      COLOR(BLU)
+     A          R DUMMY
+     A                                      ASSUME
+     A                                  1  2' '
